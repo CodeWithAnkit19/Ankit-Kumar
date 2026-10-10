@@ -1,29 +1,72 @@
- <h1 align="center">Hi 👋, I'm Ankit kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi 👋, I'm Ankit Kumar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit906575&label=Profile%20views&color=0e75b6&style=flat" alt="ankit906575" /> </p>
+### BCA Student | Aspiring Software Developer | Building Practical Projects
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit906575" alt="ankit906575" /></a> </p>
+I'm a BCA student at **Galgotias University, India**, interested in software development and building useful applications. I enjoy learning new technologies and applying my knowledge through hands-on projects.
 
-- 🌱 I’m currently learning **BCA**
+- 🎓 Pursuing BCA (2024–2027)
+- 💻 Interested in software and web development
+- 🌱 Currently learning and improving my programming skills
+- 🚀 Building projects using Python, Flask, JavaScript, and other technologies
+- 🤝 Open to learning, collaboration, and project opportunities
 
-- 👯 I’m looking to collaborate on **simple food ordering system**
+---
 
-- 🤝 I’m looking for help with **simple food ordering system**
+## 🛠️ Technical Skills
 
-- 👨‍💻 All of my projects are available at [file:///C:/Users/Ankit%20Mehta/OneDrive/Documents/Desktop/student%20profile.html](file:///C:/Users/Ankit%20Mehta/OneDrive/Documents/Desktop/student%20profile.html)
+**Languages:** Python, JavaScript, C, C++  
+**Web Technologies:** HTML, CSS  
+**Backend:** Flask, Node.js, Express.js  
+**Tools & Databases:** Git, GitHub, MongoDB
 
-- 💬 Ask me about **I am Ankit Kumar BCA student in Galgotias University**
+*This list should include only technologies you know or have worked with.*
 
-- 📫 How to reach me **Kumarankitmehta9065@gmail.com**
+---
 
-- ⚡ Fun fact **I think I am so funny**
+## 🚀 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/ankit mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankit mehta" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_mehta19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_mehta19" height="30" width="40" /></a>
-</p>
+### 1. Language Translation Tool
+A web-based application designed to translate text between languages.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+**Technologies:** Python, Flask, JavaScript, HTML, CSS
+
+[View Project on GitHub](https://github.com/Ankit906575/CodeAlpha_Language-Translation-Tool)
+
+### 2. College FAQ Chatbot
+A chatbot that matches users' questions with college-related frequently asked questions.
+
+**Technologies:** Python, Flask, RapidFuzz, JavaScript, HTML, CSS
+
+[View Project on GitHub](https://github.com/Ankit906575/CodeAlpha_FAQ-Chatbot)
+
+### 3. PaperForge — Question Paper Generator
+An academic project focused on generating question papers from a question bank.
+
+**Status:** In development
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**  
+Galgotias University, India  
+2024–2027
+
+---
+
+## 📜 Certifications
+
+- Microsoft Excel Course
+- Oracle Academy Course
+
+---
+
+## 🤝 Connect With Me
+
+- **GitHub:** [@Ankit906575](https://github.com/Ankit906575)
+- **LinkedIn:** Add your LinkedIn profile URL here
+- **Email:** Add your preferred professional email here
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.*
